@@ -1,0 +1,8 @@
+{
+  "edge": {
+    "publish_app_path": [
+      "nodejs/resize-picture"
+    ],
+    "tag": "v2.0.3"
+  }
+}

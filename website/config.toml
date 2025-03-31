@@ -1,0 +1,16 @@
+baseURL = "https://awslabs.github.io/aws-cloudfront-extensions/workshop/"
+theme = "hugo-theme-learn"
+contentDir = "../docs"
+canonifyURLs = true
+defaultContentLanguage = 'en'
+title = "CloudFront Extensions"
+languageCode = "en-us"
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    weight = 1
+
+[params]
+  themeVariant = "cloudfrontext"
+  disableLandingPageButton = true
